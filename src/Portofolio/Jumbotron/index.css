@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("./images/background.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+.btn {
+    background-color: lightsalmon;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: rgb(167, 84, 28);   
+}
